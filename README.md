@@ -1,2 +1,2 @@
 # photo-gallery
-Photo Gallery
+Photo Gallery - created using Bootstrap
